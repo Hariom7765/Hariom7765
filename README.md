@@ -178,8 +178,6 @@ Build Bigger Things 🚀
 
 # 🐍 Contribution Snake
 
-# 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source

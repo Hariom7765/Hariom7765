@@ -178,35 +178,24 @@ Build Bigger Things 🚀
 
 # 🐍 Contribution Snake
 
+# 🐍 Contribution Snake
+
 <p align="center">
-  <em>Snake animation requires a GitHub Action to generate the file automatically.</em>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Hariom7765/Hariom7765/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Hariom7765/Hariom7765/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Hariom7765/Hariom7765/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Platane/snk">
-    <img src="https://img.shields.io/badge/Setup-Snake%20Animation-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:mail-hariompandey7765@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hari-om-83b20737/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
 
 ### 🚀 Thanks for stopping by!
 

@@ -153,16 +153,16 @@ Build Bigger Things 🚀
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariom7765&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom7765&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hariom7765&theme=github_dark&animation=load&duration=3" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hariom7765&theme=github_dark&utcOffset=5.5&animation=load&duration=3" height="180"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hariom7765/Hariom7765/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariom7765&theme=github_dark&animation=load&duration=4" width="95%"/>
 </p>
 
 ---
@@ -170,15 +170,22 @@ Build Bigger Things 🚀
 # 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom7765&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hariom7765&theme=github_dark&animation=load&duration=3" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hariom7765&theme=github_dark&animation=load&duration=3" height="180"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariom7765&theme=tokyo-night&hide_border=true" />
+  <em>Snake animation requires a GitHub Action to generate the file automatically.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <img src="https://img.shields.io/badge/Setup-Snake%20Animation-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---

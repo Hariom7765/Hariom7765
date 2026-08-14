@@ -1,10 +1,9 @@
-﻿# Hariom7765
 # 👋 Hey, I'm Hari Om Pandey
 
 ### 💻 C++ Developer • Python Programmer • Game Developer • Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Python+Programmer;Game+Development+Enthusiast;Building+%E2%80%A2+Learning+%E2%80%A2+Creating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=C%2B%2B+Developer;Python+Programmer;Game+Development+Enthusiast;Turning+Ideas+Into+Projects;Exploring+Code+%26+Technology" />
 </p>
 
 <p align="center">
@@ -41,13 +40,15 @@ public:
 };
 ```
 
-🎯 I enjoy turning ideas into real projects.
+🎯 I enjoy turning ideas into real projects and experiments.
 
 🎮 Currently exploring **Game Development with Godot and C++**
 
 ⚙️ Interested in **C++, GDExtension, game mechanics and software development**
 
-📚 Constantly learning and improving my programming skills.
+📚 Always exploring new concepts, tools and technologies.
+
+💡 **Current mindset:** `Think → Build → Test → Improve`
 
 ---
 
@@ -63,6 +64,15 @@ public:
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,godot,blender,windows" />
+</p>
+
+### 🧰 Currently Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/Systems%20Programming-1f1f1f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game%20Programming-1f1f1f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3D%20Development-1f1f1f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-1f1f1f?style=for-the-badge"/>
 </p>
 
 ---
@@ -114,11 +124,45 @@ I'm currently exploring:
 
 ---
 
+# 🧭 My Developer Journey
+
+```text
+Programming
+    ↓
+C / C++ / Python
+    ↓
+Software & Game Development
+    ↓
+Godot + C++ + GDExtension
+    ↓
+Build Bigger Things 🚀
+```
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Build and publish a complete game
+* [ ] Improve advanced C++ skills
+* [ ] Create more open-source projects
+* [ ] Explore deeper game-engine development
+* [ ] Keep improving through real-world projects
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hariom7765&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom7765&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hariom7765/Hariom7765/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
@@ -157,9 +201,9 @@ I'm currently exploring:
 
 <p align="center">
 
-### 💙 Thanks for visiting my profile!
+### 🚀 Thanks for stopping by!
 
-**`Build • Learn • Create • Repeat`**
+**`Code • Create • Explore`**
 
 ⭐ Feel free to explore my repositories and projects.
 
